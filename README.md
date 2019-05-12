@@ -1,24 +1,2 @@
-# README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Creating muscle memory of the basic processes of development — it seems to me — is the surest and fastest way to reach a place of creative ability. The boring and monotonous is a pre-requisite to the exciting, improvisation of creative development. That’s why I’m sitting here about to dive into a tutorial I’ve already completed. It’s time to tackle this tutorial a second time and really nail it in. 
+This tutorial is based on Udemy’s The Complete Ruby on Rails Developer Course.
